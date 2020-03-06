@@ -7,7 +7,7 @@ https://github.com/voidzero-development/TarkovInternals << this is private there
 
 also UC Nickname of a guy who leaked it Void
 
-i also include all other repos actual one from hes github - cause i dotn care abotu this crappy coded eft
+i also include all other repos actual one from hes github - cause i dotn care abotu this crappy coded eft cheat
 
 issues in this code:
 - out of memory
