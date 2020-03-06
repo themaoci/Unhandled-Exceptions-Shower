@@ -1,5 +1,5 @@
 # UnhandledExceptionsShower
- EFT - Pro cheat - Internal version
+ EFT - notPro cheat - Internal version
 
 good you Stingrey / voidzero-development - released this crappy coded cheat i finally dont need to hide it ...
 
