@@ -1,15 +1,25 @@
 # UnhandledExceptionsShower
- EFT - notPro cheat - Internal version
+ EFT - notPro cheat - Internal MonoBehaviour version
 
-good you Stingrey / voidzero-development - released this crappy coded cheat i finally dont need to hide it ...
+So im releasing my old shit, its not optimised, nor working as intended but there are some ideas you can use for your cheat.
 
-https://github.com/voidzero-development/TarkovInternals << this is private there is located my cheat actually this one abit rewrited from like 3+ months
+https://github.com/voidzero-development/TarkovInternals << this retard thinks he can say its a leak... Good luck with that...
 
-also UC Nickname of a guy who leaked it Void
+UC nickname of this naziRetard Void
 
-i also include all other repos actual one from hes github - cause i dotn care abotu this crappy coded eft cheat
+**Void-intern - retarded copy pasta**
+Copypasta from NoNameCheat...Nothing was changed except next copypasta from Brayden
+Its not optimised at all
 
-issues in this code:
-- out of memory
-- GUI blackscreen
-- aimbot not working as intended
+**MainFolder Cheat**
+older version of cheat in folder _TheMaoci-Internal - source leaked LOL_
+
+**TheMaoci-Internal - source leaked LOL**
+- its still not optimised in my eyes
+- got Brayden idea of Vangle aimbot
+- Drawing is bugged and returns blackscreen after some time
+- it could cause out of memory
+- if you are using Optimisations in VS dont use FastMath.cs cause it will be retarded...
+- aimbot has troubles with properly selecting target (no vis check)
+- whole cheat is lagging the shit out of everything
+- Raycast.cs is fucked up dont use it
