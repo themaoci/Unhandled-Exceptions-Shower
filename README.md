@@ -3,18 +3,14 @@
 
 So im releasing my old shit, its not optimised, nor working as intended but there are some ideas you can use for your cheat.
 
-https://github.com/voidzero-development/TarkovInternals << this retard thinks he can say its a leak... Good luck with that...
-
-UC nickname of this naziRetard Void
-
 **Void-intern - retarded copy pasta**
-Copypasta from NoNameCheat...Nothing was changed except next copypasta from Brayden
+Copypasta from NoNameCheat... Nothing was changed except next copypasta from Brayden
 Its not optimised at all
 
 **MainFolder Cheat**
-older version of cheat in folder _TheMaoci-Internal - source leaked LOL_
+older version of cheat in folder _TheMaoci-Internal_
 
-**TheMaoci-Internal - source leaked LOL**
+**TheMaoci-Internal**
 - its still not optimised in my eyes
 - got Brayden idea of Vangle aimbot
 - Drawing is bugged and returns blackscreen after some time
